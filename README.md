@@ -15,3 +15,4 @@ During the process, we accidentally ripped the micro-usb connector off our pi ha
 ### Accomplishments that we're proud of
 As 4 CS majors who have never connected wires, let alone build a vehicle, the entire hardware process was completely foreign to us. Despite spending 20 minutes thinking the battery holder was the chassis, we eventually worked our way towards a functioning vehicle. Even though the project didn't reach what we had originally hoped for, we overcame a variety of novel hardware challenges that we are very proud of.
 
+![Completed_Car](./completed_car.jpg)
